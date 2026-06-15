@@ -37,7 +37,7 @@ git config --list
 
 ## Step 2: Star This Repository ⭐
 
-Go to the [DevQuest repository](https://github.com/your-org/devquest) and click the **Star** button. This helps others find the project and earns you good karma! 😄
+Go to the [DevQuest repository](https://github.com/rohanbyale/devquest) and click the **Star** button. This helps others find the project and earns you good karma! 😄
 
 ---
 
@@ -46,7 +46,7 @@ Go to the [DevQuest repository](https://github.com/your-org/devquest) and click 
 Click **Fork** in the top right of the DevQuest page.
 
 Select your account as the destination. GitHub will create a copy at:
-`https://github.com/YOUR_USERNAME/devquest`
+`https://github.com/rohanbyale/devquest.git`
 
 ---
 
@@ -54,7 +54,7 @@ Select your account as the destination. GitHub will create a copy at:
 
 ```bash
 # Replace YOUR_USERNAME with your actual GitHub username
-git clone https://github.com/YOUR_USERNAME/devquest.git
+git clone https://github.com/rohanbyale/devquest.git
 
 # Navigate into the folder
 cd devquest
@@ -111,7 +111,7 @@ git push origin add/your-github-username
 
 ## Step 8: Open Your First Pull Request
 
-1. Go to your fork on GitHub: `https://github.com/YOUR_USERNAME/devquest`
+1. Go to your fork on GitHub: `https://github.com/rohanbyale/devquest`
 2. You'll see a yellow banner — click **"Compare & pull request"**
 3. Fill in the PR description
 4. Click **"Create pull request"**
