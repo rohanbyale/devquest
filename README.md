@@ -145,7 +145,7 @@ Follow these steps to begin your DevQuest:
 
 ```bash
 # After forking, clone your fork
-git clone https://github.com/YOUR_USERNAME/devquest.git
+git clone https://github.com/rohanbyale/devquest.git
 cd devquest
 ```
 
