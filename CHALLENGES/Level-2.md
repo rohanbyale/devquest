@@ -33,7 +33,7 @@ To complete Level 2, you must:
 
 ### 1. Navigate to GitHub
 
-Go to your forked repository: `https://github.com/YOUR_USERNAME/devquest`
+Go to your forked repository: `https://github.com/rohanbyale/devquest.git`
 
 ### 2. Open the Pull Request
 
