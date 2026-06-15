@@ -38,7 +38,7 @@ Click the **Fork** button in the top-right corner of the DevQuest repository pag
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/devquest.git
+git clone https://github.com/rohanbyale/devquest.git
 cd devquest
 ```
 
